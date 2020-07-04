@@ -1,13 +1,5 @@
 # Mercari Dataset Price Suggestion and Modelling
 
-### Note that this project is a result of commendable group efforts from -
-
-**1. Raghavendra Srinivasan**
-
-**2. Raj Waje**
-
-**3. Rohit Amalnerkar**
-
 **Mercari** is an online shopping marketplace which is powered by one of the biggest community of Japan where users can sell pretty much anything.The community wants to offer price suggestions to the sellers but is a tough task as the sellers are enabled to put just about anything, or any bundle of things, on Mercari’s marketplace.
 
 
